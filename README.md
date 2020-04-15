@@ -1,0 +1,2 @@
+# IdentityServerDynamicSchemeAuthentication
+IdentityServer4 dynamic scheme registration and authentication
