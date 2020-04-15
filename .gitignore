@@ -1,0 +1,11 @@
+/.vs
+/src/IdentityServerAspNetIdentity/bin
+/src/IdentityServerAspNetIdentity/obj
+/src/Api/bin
+/src/Api/obj
+/src/Client/bin
+/src/Client/obj
+/src/JavaScriptClient/bin
+/src/JavaScriptClient/obj
+/src/MvcClient/bin
+/src/MvcClient/obj
